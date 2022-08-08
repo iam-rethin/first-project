@@ -1,0 +1,141 @@
+.container{
+    height: 100%;
+    width: 100%;
+    background: #f0f3f5;
+}
+
+body{
+    margin: 0;
+}
+
+.header{
+    width: 100%;
+    height: 100px;
+}
+
+body{
+    border: none;
+}
+
+.logo{
+    width: 300px;
+    height: 100px;
+    margin-left: 470px;
+}
+
+
+.content {
+    height: 500px;
+    width: 388px;
+    background: #fff;
+    border: solid 1px;
+    border-radius: 6px;
+    border-color: lightgrey;
+    margin-left: 425px;
+}
+
+
+.formHead{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 25px;
+    margin-left: 69px;
+    margin-top: 9px;
+}
+
+
+.formHeadSub{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    margin-left: 139px;
+    color: rgb(74, 74, 74)
+}
+
+
+.formInput1{
+    height: 30px;
+    width: 166px;
+    margin-left: 12px;
+    border-radius: 4px;
+    border: solid 1px;
+    border-color: lightgrey;
+    color: grey;
+}
+
+.formInput2{
+    height: 30px;
+    width: 354px;
+    margin-left: 12px;
+    border-radius: 4px;
+    border: solid 1px;
+    border-color: lightgrey;
+    color: grey;
+}
+
+
+#day{
+    height: 30px;
+    width: 109px;
+    margin-left: 12px;
+    border-radius: 4px;
+    border: solid 1px;
+    border-color: lightgrey;
+    color: black;
+}
+
+
+#month{
+    height: 30px;
+    width: 109px;
+    margin-left: 12px;
+    border-radius: 4px;
+    border: solid 1px;
+    border-color: lightgrey;
+    color: black;
+}
+
+#year{
+    height: 30px;
+    width: 110px;
+    margin-left: 12px;
+    border-radius: 4px;
+    border: solid 1px;
+    border-color: lightgrey;
+    color: black;
+}
+
+.declaration{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 11px;
+    color: rgb(74, 74, 74);
+    width: 316px;
+    margin-left: 12px;
+    width: 366px;
+}
+
+
+.signUpBtn{
+    font-weight: bolder;
+    width: 150px;
+    height: 30px;
+    background: rgb(8, 177, 2);
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    margin-left: 125px;
+}
+
+.footerData{
+    height: 150px;
+    background: #fff;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color:rgb(49, 83, 146);
+}
+
+.footerDataCont{
+    padding-top: 20px;
+    margin-left: 145px;
+    margin-top: 60px;
+    margin-right: 168px;
+}
